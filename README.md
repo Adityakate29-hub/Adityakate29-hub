@@ -1,56 +1,25 @@
 
-# 👋 Hi, I'm Aditya Kate
+## 🛠️ Tech Stack & Skills
 
-### 🤖 Aspiring AI Engineer | B.Sc. AI & ML Student
+<p align="left">
 
-Welcome to my GitHub Profile!
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-I'm a first-year B.Sc. Artificial Intelligence and Machine Learning student at Shivaji University, Kolhapur, India.
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-I am passionate about programming, technology, and Artificial Intelligence.
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-8A2BE2?style=for-the-badge"/>
 
-## 👨‍💻 About Me
+<img src="https://img.shields.io/badge/Machine_Learning-Learning-00A86B?style=for-the-badge"/>
 
-- 🎓 B.Sc. AI & ML Student
-- 🐍 Learning Python
-- 🗄️ Learning SQL & MySQL
-- 📊 Interested in Data Analytics
-- 🤖 Exploring Artificial Intelligence
-- 🎯 Goal: Become an AI Engineer
+<img src="https://img.shields.io/badge/Data_Analytics-Learning-orange?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-## 🛠️ Skills & Technologies
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-- Python
-- SQL
-- MySQL
-- Git & GitHub
+</p>
 
----
 
-## 📚 Currently Learning
-
-- Python Programming
-- Database Management
-- Data Analytics
-- Machine Learning
-
----
-
-## 🚀 Projects
-
-Currently learning and working towards building my first projects.
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya-kate-a790b7448/)
-
----
-
-⭐ Thanks for visiting my profile!
 
